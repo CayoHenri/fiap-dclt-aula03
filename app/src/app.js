@@ -28,7 +28,7 @@ let todos = [
   {
     id: 1,
     title: "Estudar Docker na FIAP",
-    description: "Aprender containerização e Kubernetes",
+    description: "Aprender containerização e Kubernetes 2",
     completed: false,
     priority: "high",
     category: "education",
